@@ -2,12 +2,10 @@
 title: "Using Adaptive Management as a Critical Public Sector Management Tool: Lessons from the Republic of Liberia"
 output: html_document
 ---
-
 ### **Why development plans must learn, adjust, and stay focused on people’s lives**
 
-#### **Haven Weeseh Yarl, October 27, 2026**
+**Haven Weeseh Yarl, October 27, 2026**
 
- 
 In January 2025, Liberia launched its five-year ARREST Agenda for Inclusive Development (2025–2029), with an estimated financing requirement of about US$8.38 billion. The plan promises progress in economic growth, infrastructure, governance, and human development. By November 2025, however, the International Monetary Fund (IMF) had raised serious questions about its financing assumptions. Much of the expected funding depended on development partners and private investment at a time when external assistance was under pressure and domestic resources remained limited. Unsurprisingly, the assessment triggered anxiety among citizens, civil society, politicians, and other stakeholders.
 
 In practical terms, these concerns are understandable. A national development plan promises jobs, schools, healthcare, roads, and opportunities. So, when financing becomes uncertain, people naturally ask whether those promises can still be delivered. Others may blame the institutions that prepared the plan, as in Liberia's case. However, a financing warning does not automatically mean that every development objective is unattainable, or that planning itself has failed.
