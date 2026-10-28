@@ -2,7 +2,6 @@
 title: "From Activities to Impact: Why Managing for Results Is No Longer Optional in Public Sector Governance"
 output: html_document
 ---
-
 ### **Responding to citizens’ and stakeholders’ demands for evidence, accountability, and measurable development outcomes**
 
 **Haven Wesseh Yarl, October 21, 2026**
