@@ -1,0 +1,69 @@
+---
+title: "Using Adaptive Management as a Critical Public Sector Management Tool: Lessons from the Republic of Liberia"
+output: html_document
+---
+
+### **Why development plans must learn, adjust, and stay focused on people’s lives**
+
+#### **Haven Weeseh Yarl, October 27, 2026**
+
+ 
+In January 2025, Liberia launched its five-year ARREST Agenda for Inclusive Development (2025–2029), with an estimated financing requirement of about US$8.38 billion. The plan promises progress in economic growth, infrastructure, governance, and human development. By November 2025, however, the International Monetary Fund (IMF) had raised serious questions about its financing assumptions. Much of the expected funding depended on development partners and private investment at a time when external assistance was under pressure and domestic resources remained limited. Unsurprisingly, the assessment triggered anxiety among citizens, civil society, politicians, and other stakeholders.
+
+In practical terms, these concerns are understandable. A national development plan promises jobs, schools, healthcare, roads, and opportunities. So, when financing becomes uncertain, people naturally ask whether those promises can still be delivered. Others may blame the institutions that prepared the plan, as in Liberia's case. However, a financing warning does not automatically mean that every development objective is unattainable, or that planning itself has failed.
+
+In practice, no government can predict every shock, and no national development plan is bulletproof. Development planning occurs in environments marked by uncertainty, complexity, and frequent shocks. External crises, political shifts, health emergencies, and climate events can rapidly render initial assumptions obsolete, and disrupt livelihoods. Yet still, these issues cannot excuse unrealistic planning or inaction. The real test is what the government does when new evidence shows that its original assumptions no longer hold. Does it defend the plan unchanged, or does it review the evidence, explain the choices, and adjust its course?
+
+#### **What adaptive management really means**
+
+This is where adaptive management matters. Put simply, adaptive management uses what government learns during implementation to improve what it does next. Rather than treating a development plan as a fixed instruction manual, government treats it as a guide whose strategies can be refined as conditions or evidence change. The long-term goal, better lives for citizens, remains important even when the route to it must change.
+
+Let’s consider a government program designed to raise farmers’ incomes through improved seeds and extension services. The ministry may deliver the seeds on time and train the planned number of farmers. Yet incomes may not improve because transport costs have risen, rainfall has failed, or farmers cannot reach markets. A conventional report might record the activities as completed. An adaptive manager asks a different question: Why are the expected benefits not materializing, and what should we change?
+
+The answer might be to revise the planting calendar, strengthen market connections, redirect some funding toward storage, or test a different delivery approach. These are not random changes. They follow a disciplined cycle: plan, implement, monitor, learn, adjust, and check whether the adjustment works. Reliable data, local feedback, clear responsibilities, and timely decisions make the cycle possible. Monitoring reports alone are not enough if nobody uses them.
+Adaptive management is also different from constantly shifting political priorities. Changes should be evidence-based, assessed for cost and expected benefit, and documented so citizens and oversight institutions can understand them. Flexibility without accountability can excuse arbitrary decisions; accountability without flexibility can keep ineffective activities alive.
+
+#### **Liberia’s Ebola experience: A practical lesson**
+
+Liberia has already faced a situation in which national planning assumptions changed dramatically, which offers a practical illustration of adaptive management in action. Following the Poverty Reduction Strategy (PRS), the country adopted the Agenda for Transformation (AfT, 2012–2017), which focused on infrastructure expansion, human capital development, private-sector growth, youth employment, and governance reforms, with expected outcomes ranging from economic diversification to reduced regional disparities for longer-term growth.
+
+However, merely two years into the implementation of the plan,  the 2014 Ebola epidemic disrupted nearly every part of national life. Economic activity slowed, essential services came under pressure, and public resources and institutional attention shifted toward the emergency. Under these new realities, many of the AfT’s original assumptions no longer held. Fiscal space contracted, implementation capacity weakened, and achieving the plan’s original targets became increasingly unrealistic. So, continuing with every original activity and timetable as though nothing had happened would have ignored the country’s changed reality.
+
+Rather than persisting with an unaltered framework, the government adopted an adaptive response by developing the Economic Stabilization and Recovery Plan (ESRP).  The ESRP did not replace the AfT outright; instead, it recalibrated priorities, narrowed the scope of interventions, and reallocated resources toward immediate stabilization and recovery needs. This is an important example of strategic adjustment: when circumstances change, governments can reconsider the sequence and focus of interventions without abandoning the broader purpose of development.
+
+The ESRP does not, by itself, prove that Liberia had a fully institutionalized adaptive management system or that every recovery objective was achieved. It does, however, show why governments need to reassess priorities, resources, and implementation arrangements when major shocks occur. While the crisis's severity constrained outcomes, the adaptive response helped preserve macroeconomic stability and laid the groundwork for eventual recovery. The bigger opportunity is to make that capacity routine rather than waiting for the next emergency.
+
+#### **What the ARREST Agenda can learn**
+
+The financing concerns surrounding the ARREST Agenda offer a similar management challenge, although the circumstances differ from Ebola. A practical adaptive response would start by distinguishing committed money from projected financing. Government could then identify which investments are implementation-ready, which essential services need protection, and which activities may require revised timing or financing arrangements.
+
+For example, postponing a poorly prepared project may be more responsible than starting construction without sufficient funds to finish it. Protecting frontline health services may matter more than maintaining every administrative activity at its original scale. Such choices are difficult, but they are more credible when based on transparent criteria, realistic costs, and evidence about expected benefits.
+
+In October 2026, Liberia’s Ministry of Finance and Development Planning and UNDP convened a workshop to validate an Integrated National Financing Framework intended to help mobilize resources for the development agenda. This is a relevant step in reviewing financing options. Its value will ultimately depend on whether the work translates into feasible funding decisions, improved implementation, and measurable outcomes.
+
+#### **Why Adaptive Management Matters for Developing Countries**
+
+Liberia’s experience is not unique. Many developing countries face similar pressures. Development ambitions are high, but fiscal space is limited. Aid flows can be unpredictable; climate shocks, debt pressures, commodity prices, and political transitions can quickly alter plans. In such environments, rigid planning frameworks often fail not because of poor intent but because they lack built-in mechanisms for learning and adjustment. A rigid system may keep funding activities that no longer address the most urgent problems, whereas an adaptive system can identify those problems sooner and redirect effort before more time and money are lost. 
+
+Adaptive management also makes public accountability more meaningful. Citizens deserve to know not only what the government promised, but also what has changed, why a project was delayed, why resources were shifted, and whether the new approach is working. Explaining a justified adjustment with evidence can be more credible than insisting that an outdated target remains achievable.
+
+#### **Making adaptation part of government**
+
+To make this approach work, governments should integrate national planning with budgeting, monitoring and evaluation, and routine management decisions. Ministries need a small set of useful outcome indicators, realistic baselines and targets, risk registers, and periodic reviews in which officials are expected to make decisions, not merely present reports. When a change is approved, someone should be responsible for implementing it and for reporting what happened afterward.
+
+The process should include frontline workers, local governments, communities, and service users. They often identify obstacles before national reports do. For countries with limited capacity, the starting point need not be an expensive digital platform. A few priority programs, quarterly learning meetings, credible data checks, and a clear record of decisions can build the habit of responsible adaptation.
+
+#### **Conclusion: Keep the goals, improve the route**
+
+Liberia’s experience offers a lesson for development planning everywhere: the quality of a national plan is not measured only by the ambition of its goals or the detail of its original activities. It also depends on whether public institutions can recognize changing conditions, learn from implementation, and make decisions that protect development results.
+The Ebola crisis showed why an unexpected shock may require a new recovery strategy. The ARREST Agenda’s financing challenge raises a different but equally important question: how can government adjust its financing and implementation choices while keeping poverty reduction and improved well-being at the center? Neither challenge can be solved through speeches, rigid adherence to old assumptions, or frequent revisions without evidence.
+
+For Liberia and other developing countries, adaptive management should therefore become an ordinary part of public administration, not just an emergency measure. It should guide how priorities are reviewed, how scarce resources are allocated, how programs learn from setbacks, and how leaders explain changes to citizens. A plan should provide direction, but evidence should help determine the route.
+
+In conclusion, adaptive management is not a retreat from ambition; it is a strategy for achieving ambition in the real world. For Liberia and other developing countries, institutionalizing adaptive management is no longer a technical option; it is a governance imperative for sustainable development in an era of uncertainty. People do not experience development as a completed planning document. They experience it through medicines available at clinics, children learning in schools, farmers reaching markets, and young people finding decent work. When circumstances change, the government's responsibility is not to defend every original activity. It is to protect those results and find a more effective way to deliver them. Adaptive management makes that responsibility practical.
+
+
+### **Context sources:**
+
+Government of Liberia, ARREST Agenda for Inclusive Development (2025–2029); IMF, Liberia 2025 Article IV Consultation (November 2025); Ministry of Finance and Development Planning, Integrated National Financing Framework workshop update (October 15, 2026); Pasanen & Barnett, Supporting Adaptive Management (ODI, 2019); World Bank, Liberia recovery documentation (2017).
+   
